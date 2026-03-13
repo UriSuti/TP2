@@ -8,6 +8,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+    "ejercicio1": "node ej01.js",
+    "ejercicio2": "node ej02.js",
+    "ejercicio3": "node ej03.js",
+    "ejercicio4": "node ej04.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
   }
 }
