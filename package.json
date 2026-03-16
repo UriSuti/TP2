@@ -12,9 +12,14 @@
     "ejercicio1": "node ej01.js",
     "ejercicio2": "node ej02.js",
     "ejercicio3": "node ej03.js",
-    "ejercicio4": "node ej04.js"
+    "ejercicio4": "node ej04.js",
+    "ejercicio5": "node ej05.js",
+    "ejercicio6": "node ej06.js",
+    "ejercicio7": "node ej07.js"
   },
   "dependencies": {
-    "fs": "^0.0.1-security"
+    "country-data": "^0.0.31",
+    "fs": "^0.0.1-security",
+    "money": "^0.2.0"
   }
 }
